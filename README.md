@@ -73,15 +73,6 @@ List the ready features here:
 | GET TO KNOW ME  |
 
 
-
-### Sign Up
-| <img src="https://user-images.githubusercontent.com/70365178/172140854-07af5b9c-98ce-4b51-ac62-cb1168cb90a6.png"> | 
-| :----------------------------------------------: |
-| SEND YOUR QUERIES HERE  |
-
-![port contact section]()
-
-
 ### Contact Me 
 | <img src="https://user-images.githubusercontent.com/70365178/172174990-9ba419a6-528b-44a1-bf07-c0256c55ab40.png"> | 
 | :----------------------------------------------: |
