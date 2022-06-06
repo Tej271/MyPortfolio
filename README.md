@@ -1,5 +1,5 @@
 # MyPortfolio
-> A website for .
+> A website for representation of my projects and services through portfolio.
 
 
 ## Table of Contents
